@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ruhan Mohd  
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Cloud Solutions Advocate**  
+🚀 **Full Stack Developer | MERN Stack Enthusiast **  
 
 Welcome to my GitHub profile! I'm a passionate software developer with 3+ years of experience in building scalable, high-performance web applications and backend systems. I thrive on creating elegant solutions for complex problems using cutting-edge technologies.  
 
